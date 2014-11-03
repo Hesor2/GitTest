@@ -4,10 +4,16 @@ public class SuckDat
   public SuckDat()
   {
   syso("Ass wirf cc.");
+  syso("Mom is that me.");
   }
   
   public int getX()
   {
-  return x;
+  return k;
+  }
+  
+  public void setX()
+  {
+  this = dat.
   }
 }
